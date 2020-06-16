@@ -1,4 +1,4 @@
-# MessageBroker
+# MessageBroker (demo)
 
 Dependency: DocumentStore service, MS SQL
 
